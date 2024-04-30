@@ -26,7 +26,7 @@
 
 
 
-<h1 class="color="yellow"">Bu MarsCoin</h1>    
+<h1>Bu MarsCoin</h1>    
 
 ![Coin 8a6f0644](https://github.com/usmon2012/Mars-Space/assets/136171356/eef6b747-b52b-497f-ae29-d88c2400a5b3)
 
